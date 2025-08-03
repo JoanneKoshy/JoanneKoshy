@@ -8,7 +8,7 @@
 <h1 align="center">Hi there, I'm Joanne Alice Thomas!✨</h1>
 
 <p align="center">
-  <b>AI | Founder in Progress | Book Lover | Workaholic</b>
+  <b>AI | Founder in Progress</b>
 </p>
 
 ---
