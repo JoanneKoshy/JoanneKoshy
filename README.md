@@ -8,7 +8,7 @@
 <h1 align="center">Hi there, I'm Joanne Alice Thomas!✨</h1>
 
 <p align="center">
-  <b>AI | Founder in Progress</b>
+  <b>AI | Founder in Progress | Book Reader| Hardware</b>
 </p>
 
 ---
@@ -38,7 +38,7 @@ Whether I'm coding late into the night or reading the latest on neural networks,
 
 - 🦸‍♀️ **Building my company** (and loving every challenge!)
 - 📚 **Reading books**
-- 😴 **Not resting properly** (workaholic, but who isn’t when you love what you do?)
+- 😴 **Not resting properly** (but who isn’t when you love what you do?)
 - 🌌 **Sometimes just sitting blank** (the best ideas are born here!)
 
 ---
