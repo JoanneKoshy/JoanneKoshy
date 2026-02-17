@@ -54,7 +54,7 @@ Whether I'm coding late into the night or reading the latest on neural networks,
 
 ## 🦄 Fun Fact
 
-> "Sometimes, sitting blank is the most productive thing you can do. That's where innovation begins."
+> "Sometimes, sitting blank is the most productive thing you can do. That's where innovation begins and you start building"
 
 ---
 
