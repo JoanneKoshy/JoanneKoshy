@@ -46,7 +46,7 @@ Whether I'm coding late into the night or reading the latest on neural networks,
 ## 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/joannealicethomas)
-- 📧 joannekoshy229@gmail.com
+- 📧 joannealicethomas@gmail.com
 
 ---
 
