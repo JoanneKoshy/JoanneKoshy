@@ -28,9 +28,10 @@ Whether I'm coding late into the night or reading the latest on neural networks,
   React | Nodejs | Nextjs | Refine | Flutter  
   TensorFlow | HuggingFace | Streamlit | FastAPI | LangChain | Gradio | OpenCV | YOLO
 - ☁️ **Platforms:**  
-  Vercel | Render | Firebase | Supabase | GitHub | Visual Studio Code
+  Vercel | Render | Firebase | Supabase | GitHub | Visual Studio Code 
 - 🗄️ **Databases:**  
-  Supabase | Firebase | MySQL
+  Supabase | Firebase | MySQL | MongoDB
+
 
 ---
 
@@ -39,7 +40,7 @@ Whether I'm coding late into the night or reading the latest on neural networks,
 - 🦸‍♀️ **Building my company** (and loving every challenge!)
 - 📚 **Reading books**
 - 😴 **Not resting properly** (but who isn’t when you love what you do?)
-- 🌌 **Sometimes just sitting blank** (the best ideas are born here!)
+- 🌌 **Sometimes just sitting blank** (the best ideas are born here and we come up with new initiatives)
 
 ---
 
