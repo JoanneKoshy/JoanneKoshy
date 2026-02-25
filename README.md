@@ -32,7 +32,7 @@ Whether I'm coding late into the night or reading the latest on neural networks,
 - 🗄️ **Databases:**  
   Supabase | Firebase | MySQL | MongoDB
 - **Hardware:**
-  Arduino | Arduino IDE | ESP32 | TinkerCad |
+  Arduino | Arduino IDE | ESP32 | TinkerCad | Zypher RTOS
 
 ---
 
