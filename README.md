@@ -31,6 +31,7 @@ Whether I'm coding late into the night or reading the latest on neural networks,
   Vercel | Render | Firebase | Supabase | GitHub | Visual Studio Code 
 - 🗄️ **Databases:**  
   Supabase | Firebase | MySQL | MongoDB
+- **Hardware:**
 
 
 ---
