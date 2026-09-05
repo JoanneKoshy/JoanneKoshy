@@ -38,7 +38,6 @@ Whether I'm coding late into the night or reading the latest on neural networks,
 
 ## 💖 Hobbies & Quirks
 
-- 🦸‍♀️ **Building my company** (and loving every challenge!)
 - 📚 **Reading books**
 - 😴 **Not resting properly** (but who isn’t when you love what you do?)
 - 🌌 **Sometimes just sitting blank** (the best ideas are born here and we come up with new initiatives)
